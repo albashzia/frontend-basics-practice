@@ -30,4 +30,5 @@ p {
 
 #two {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: capitalize;
 }

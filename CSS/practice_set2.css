@@ -2,12 +2,8 @@
   text-align: center;
   text-transform: uppercase;
 }
-
-.body {
-  font-family:
-    Times New Roman,
-    Times,
-    serif;
+* {
+  font-family: Times New Roman;
 }
 
 #outer {

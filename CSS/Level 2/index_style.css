@@ -4,13 +4,15 @@ h1 {
   background-color: lightgreen;
   border: 3px dashed black;
   text-align: center;
+  border-radius: 10px;
 }
 
 div {
   background-color: lightblue;
   height: 100px;
-
+  width: 700px;
   border-width: 2px;
   border-style: solid;
   border-color: black;
+  border-radius: 10px;
 }

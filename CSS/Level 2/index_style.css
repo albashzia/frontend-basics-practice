@@ -15,4 +15,5 @@ div {
   border-style: solid;
   border-color: black;
   border-radius: 10px;
+  padding-left: 25px;
 }

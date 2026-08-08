@@ -13,3 +13,7 @@
   padding: 0px;
   margin: 0px;
 }
+
+#input button {
+  background-color: orange;
+}

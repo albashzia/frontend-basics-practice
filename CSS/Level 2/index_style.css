@@ -21,4 +21,5 @@ h1 {
 
 #unique {
   background-color: azure;
+  display: inline;
 }

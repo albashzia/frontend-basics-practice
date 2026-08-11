@@ -23,3 +23,7 @@ h1 {
   background-color: azure;
   display: inline;
 }
+
+button {
+  display: block;
+}

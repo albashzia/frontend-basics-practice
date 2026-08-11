@@ -27,3 +27,7 @@ h1 {
 button {
   display: block;
 }
+
+#box {
+  display: inline-block;
+}

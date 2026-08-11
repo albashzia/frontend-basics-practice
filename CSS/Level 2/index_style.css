@@ -7,7 +7,7 @@ h1 {
   border-radius: 10px;
 }
 
-div {
+.common {
   background-color: lightblue;
   height: 100px;
   width: 700px;

@@ -38,4 +38,5 @@ button {
   text-align: center;
   border: 2px solid black;
   color: rgba(250, 0, 0, 0.5);
+  background-color: rgba(0, 0, 250, 0.5);
 }

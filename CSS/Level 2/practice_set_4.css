@@ -1,0 +1,15 @@
+#navbar {
+  background-color: black;
+  height: 50px;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+}
+
+button {
+  background-color: orange;
+}
+
+a {
+  margin: 60px;
+}

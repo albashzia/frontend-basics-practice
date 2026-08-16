@@ -3,3 +3,9 @@
   width: 100px;
   background-color: rgba(0, 255, 0, 0.4);
 }
+
+#box2 {
+  height: 100px;
+  width: 33%;
+  background-color: rgba(84, 84, 160, 0.4);
+}
